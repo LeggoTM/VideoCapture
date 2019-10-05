@@ -1,0 +1,1 @@
+ffmpeg -i video.mkv -r 0.5 wallpaper%d.jpeg
